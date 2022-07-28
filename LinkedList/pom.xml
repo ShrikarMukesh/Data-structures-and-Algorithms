@@ -8,13 +8,15 @@
 		<version>2.7.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.interview</groupId>
-	<artifactId>java-interview</artifactId>
+	<groupId>com.linkedlist</groupId>
+	<artifactId>linkedlist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>java-interview</name>
-	<description>java-interview</description>
+	<name>linkedlist</name>
+	<description>linkedlist-problems</description>
 	<properties>
-		<java.version>11</java.version>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
 		<dependency>
